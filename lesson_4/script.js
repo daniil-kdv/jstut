@@ -10,3 +10,5 @@ function second() {
 
 first();
 second();
+
+prompt('','');
